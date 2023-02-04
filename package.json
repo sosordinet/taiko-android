@@ -27,7 +27,7 @@
   "homepage": "https://github.com/saikrishna321/taiko-android#readme",
   "dependencies": {
     "adbkit": "^2.11.1",
-    "get-port": "^5.0.0",
+    "get-port": "^5.1.1",
     "npmlog": "^4.1.2",
     "bluebird": "^3.5.4"
   },
